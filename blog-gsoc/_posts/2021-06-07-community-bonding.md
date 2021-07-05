@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GSOC: Community Bonding"
-date:   2021-06-07 07:58:11 +0530
+date:   2021-06-07 15:53:47 +0530
 category: gsoc
 ---
 Hello everyone!
